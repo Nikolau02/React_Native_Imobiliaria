@@ -15,3 +15,5 @@ página de listagem que reúne as informações cadastradas.
 ## Uso
 No App Imobiliaria você pode cadastrar e vizualisar todos os imóveis disponíveis para locação ou venda,
 o que auxilia na organização de corretores.
+
+![Gif_Projeto_Imobiliaria](Gif_Projeto_Imobiliaria.gif)
