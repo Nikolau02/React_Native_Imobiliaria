@@ -5,6 +5,9 @@ Repositório para ao versionamento do App "Imobiliaria" destinado à organizaç�
 O App "Imobiliaria" é uma aplicação para organizar melhor imóveis para locação ou venda, no App é 
 possível cadastrar informações sobre os imóveis juntamente com uma foto, e também conta com uma 
 página de listagem que reúne as informações cadastradas.
+Essa aplicação foi construída como uma atividade para o curso Técnico em Informática para a Internet,
+com a proposta de implementar recursos nativos do aparelho como o uso da câmera e do armazenamento do 
+dispositivo.
 
 ## Instalação
 1. Baixe o arquivo .zip do Projeto.
