@@ -1,4 +1,6 @@
 # React_Native_Imobiliaria
+![Badge de Encerrado](https://img.shields.io/badge/status-Encerrado-red)
+
 Repositório para ao versionamento do App "Imobiliaria" destinado à organização de Imóveis para Aluguel.
 
 ## Descrição
